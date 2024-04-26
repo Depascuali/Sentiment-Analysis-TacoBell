@@ -124,9 +124,15 @@ data_df.to_excel(file_path, index=False)
 
 # Results
 PD: The presentation is uploaded on this repository, feel free to download it and check out the results, here is a quick summary:
+
+
 ![image](https://github.com/Depascuali/Sentiment-Analysis-TacoBell/assets/97790973/642dbf5b-9e15-46aa-93e5-58bba3fa564f)
 
+
+
 ![image](https://github.com/Depascuali/Sentiment-Analysis-TacoBell/assets/97790973/da625bac-e807-4554-a04d-31d30fe22f75)
+
+
 
 ![image](https://github.com/Depascuali/Sentiment-Analysis-TacoBell/assets/97790973/ed6269e3-6fb7-41ad-ac12-e16b460d6845)
 
