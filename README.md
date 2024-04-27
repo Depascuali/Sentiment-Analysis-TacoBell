@@ -137,3 +137,4 @@ PD: The presentation is uploaded on this repository, feel free to download it an
 ![image](https://github.com/Depascuali/Sentiment-Analysis-TacoBell/assets/97790973/ed6269e3-6fb7-41ad-ac12-e16b460d6845)
 
 
+Tomas Depascuali
